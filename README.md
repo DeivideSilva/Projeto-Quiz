@@ -1,4 +1,4 @@
-# Projeto Quiz desenvolvido durante o curso de javascript puro do CJRM- Roger Melo.
+# Projeto Quiz desenvolvido durante o curso de javascript puro do CJRM - Roger Melo.
 
 
 
