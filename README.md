@@ -10,4 +10,4 @@
 
 - JavaScript
 
-🚀[Site do projeto](http:\\www.google.com)
+🚀[Site do projeto](https://quiz-hero.netlify.app/)
