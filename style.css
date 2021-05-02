@@ -1,5 +1,5 @@
 .text-white{
-  animation: bounceIn 3s ease-o;
+  animation: bounceIn 3s ease-out;
 }
 
 @keyframes bounceIn {
@@ -14,6 +14,6 @@
     }
     
     100% {
-        ransform: scale(1);
+        transform: scale(1);
     }
 }
